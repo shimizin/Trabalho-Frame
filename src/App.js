@@ -41,7 +41,7 @@ class App extends Component{
 
           <div className='flex'>
             <Busca
-              busca={this.state.busca}
+              busca={busca}
               buscaODA={this.buscaODA}
             />
 
